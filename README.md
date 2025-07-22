@@ -117,6 +117,11 @@ curl -X POST https://your-ngrok-id.ngrok-free.app/call-me \
 - Edit `data.csv` to change the target bank number or verification info.
 - Update the system prompt in `index.js` to change the AI's personality or instructions.
 
+
+## Disclaimer
+
+This project is provided for educational and research purposes only. The author does not condone or encourage any illegal, unethical, or unauthorized use of this software. You are solely responsible for complying with all applicable laws, regulations, and terms of service. Use at your own risk.
+
 ## License
 
 GPLv3
